@@ -1,0 +1,10 @@
+@use '../../sass/variables' as v;
+
+.navColor{
+    color : v.$purple;
+    &:hover{
+        color: v.$lightPurple
+    }
+    
+}
+
